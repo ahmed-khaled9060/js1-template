@@ -1,5 +1,7 @@
-languages used : html / css / js
+*languages used : html / css / js
 
-design responsive by media query
+*design responsive by media query
 
-live demo : https://ahmed-khaled9060.github.io/js1-template/
+*All the settings that you chose from the settings menu will remain the same even if you exit the site
+
+*live demo : https://ahmed-khaled9060.github.io/js1-template/
